@@ -1,0 +1,10 @@
+# Secrets: your api_hash and your Telegram login. Never commit these.
+.env
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
