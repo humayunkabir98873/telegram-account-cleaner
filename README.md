@@ -47,7 +47,7 @@ bulk-clean a Telegram account.
 ### 1. Download the code
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-account-cleaner.git
+git clone https://github.com/humayunkabir98873/telegram-account-cleaner.git
 cd telegram-account-cleaner
 ```
 
